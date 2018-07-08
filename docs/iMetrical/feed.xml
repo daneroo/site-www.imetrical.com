@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:B5B2804E-C0EC-4236-9A1C-950B07C243A0</id>
+ <title>Page list Atom feed</title>
+ <updated>2009-02-24T11:58:21-05:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:7B826EB6-AC5D-4E47-8364-DC0C9B19D0B6</id>
+  <title>Home</title>
+  <title xmlns="urn:iweb:">Home</title>
+  <in-navbar xmlns="urn:iweb:">7B826EB6-AC5D-4E47-8364-DC0C9B19D0B6</in-navbar>
+  <link rel="alternate" href="Home.html"/>
+  <updated>2009-02-24T11:58:21.001-05:00</updated>
+  <content>Home</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:5CB7DCF6-AA98-4163-BED0-628C2CB9839E</id>
+  <title>Show Me</title>
+  <title xmlns="urn:iweb:">Show Me</title>
+  <in-navbar xmlns="urn:iweb:">5CB7DCF6-AA98-4163-BED0-628C2CB9839E</in-navbar>
+  <link rel="alternate" href="Show_Me.html"/>
+  <updated>2009-02-24T11:58:21.002-05:00</updated>
+  <content>Show Me</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:A396F516-0490-4DEE-9940-242BCAC64962</id>
+  <title>How it Works</title>
+  <title xmlns="urn:iweb:">How it Works</title>
+  <in-navbar xmlns="urn:iweb:">A396F516-0490-4DEE-9940-242BCAC64962</in-navbar>
+  <link rel="alternate" href="How_it_Works.html"/>
+  <updated>2009-02-24T11:58:21.003-05:00</updated>
+  <content>How it Works</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:43E5B5F3-B407-4301-AAEB-953F1CE915D0</id>
+  <title>Partnerships</title>
+  <title xmlns="urn:iweb:">Partnerships</title>
+  <in-navbar xmlns="urn:iweb:">43E5B5F3-B407-4301-AAEB-953F1CE915D0</in-navbar>
+  <link rel="alternate" href="Partnerships.html"/>
+  <updated>2009-02-24T11:58:21.004-05:00</updated>
+  <content>Partnerships</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:5388B932-D4F9-427D-99BD-9AE19BFB5CBE</id>
+  <title>Contact Us</title>
+  <title xmlns="urn:iweb:">Contact Us</title>
+  <in-navbar xmlns="urn:iweb:">5388B932-D4F9-427D-99BD-9AE19BFB5CBE</in-navbar>
+  <link rel="alternate" href="Contact_Us.html"/>
+  <updated>2009-02-24T11:58:21.005-05:00</updated>
+  <content>Contact Us</content>
+ </entry>
+</feed>

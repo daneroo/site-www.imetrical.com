@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:1338937B-6AA5-41CE-834C-941F764D058C</id>
+ <title>Page list Atom feed</title>
+ <updated>2009-02-24T11:57:29-05:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:98BA27AD-C7B2-4732-8261-204DFAA82EF3</id>
+  <title>Accueil</title>
+  <title xmlns="urn:iweb:">Accueil</title>
+  <in-navbar xmlns="urn:iweb:">98BA27AD-C7B2-4732-8261-204DFAA82EF3</in-navbar>
+  <link rel="alternate" href="Accueil.html"/>
+  <updated>2009-02-24T11:57:29.001-05:00</updated>
+  <content>Accueil</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:74CB98A7-23EE-47CB-8960-EBCDE6294A8A</id>
+  <title>Projet</title>
+  <title xmlns="urn:iweb:">Projet</title>
+  <in-navbar xmlns="urn:iweb:">74CB98A7-23EE-47CB-8960-EBCDE6294A8A</in-navbar>
+  <link rel="alternate" href="Projet.html"/>
+  <updated>2009-02-24T11:57:29.002-05:00</updated>
+  <content>Projet</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:FD0F10F6-639C-4E69-8D3F-B50DD691CFA9</id>
+  <title>Objectifs</title>
+  <title xmlns="urn:iweb:">Objectifs</title>
+  <in-navbar xmlns="urn:iweb:">FD0F10F6-639C-4E69-8D3F-B50DD691CFA9</in-navbar>
+  <link rel="alternate" href="Objectifs.html"/>
+  <updated>2009-02-24T11:57:29.003-05:00</updated>
+  <content>Objectifs</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:DE6C1D8C-BBE8-4C6B-9FBF-3C0DC8618A2F</id>
+  <title>Mécanismes</title>
+  <title xmlns="urn:iweb:">Mécanismes</title>
+  <in-navbar xmlns="urn:iweb:">DE6C1D8C-BBE8-4C6B-9FBF-3C0DC8618A2F</in-navbar>
+  <link rel="alternate" href="Mecanismes.html"/>
+  <updated>2009-02-24T11:57:29.004-05:00</updated>
+  <content>Mécanismes</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:800F358A-B5A5-46B8-AD08-E93B67FD9C45</id>
+  <title>Nous Joindre</title>
+  <title xmlns="urn:iweb:">Nous Joindre</title>
+  <in-navbar xmlns="urn:iweb:">800F358A-B5A5-46B8-AD08-E93B67FD9C45</in-navbar>
+  <link rel="alternate" href="Nous_Joindre.html"/>
+  <updated>2009-02-24T11:57:29.005-05:00</updated>
+  <content>Nous Joindre</content>
+ </entry>
+</feed>

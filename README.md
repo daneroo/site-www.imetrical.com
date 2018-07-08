@@ -4,22 +4,27 @@ which hosted multiple sites.
 
 Published to: http://www.imetrical.com/
 Published to: http://daniel-lauzon.com/site-www.imetrical.com/
+Published to: http://www2.imetrical.com/ (AppEngine)
+Published to: http://imetrical-hrd.appspot.com (AppEngine bad CORS)
+Published to: http://imetrical.appspot.com (AppEngine aliased)
 
 Root domain imetrical.com is redireceted by hover to www.imetrical.com
 
 Using CNAME record on imetrical.com:
 ```
+A     @   64.98.145.30  (url.hover.com)
+A     *   64.98.145.30  (url.hover.com)
 CNAME www daneroo.github.io
 
-$ dig ted.mirawatt.com
+$ dig www.imetrical.com
 
 ;; ANSWER SECTION:
-ted.mirawatt.com.	713	IN	CNAME	daneroo.github.io.
-daneroo.github.io.	3413	IN	CNAME	sni.github.map.fastly.net.
-sni.github.map.fastly.net. 3413	IN	A	185.199.108.153
-sni.github.map.fastly.net. 3413	IN	A	185.199.109.153
-sni.github.map.fastly.net. 3413	IN	A	185.199.110.153
-sni.github.map.fastly.net. 3413	IN	A	185.199.111.153
+www.imetrical.com.	899	IN	CNAME	daneroo.github.io.
+daneroo.github.io.	3599	IN	CNAME	sni.github.map.fastly.net.
+sni.github.map.fastly.net. 3599	IN	A	185.199.108.153
+sni.github.map.fastly.net. 3599	IN	A	185.199.109.153
+sni.github.map.fastly.net. 3599	IN	A	185.199.110.153
+sni.github.map.fastly.net. 3599	IN	A	185.199.111.153
 ```
 
 ## History
